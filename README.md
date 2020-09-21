@@ -7,9 +7,9 @@ Second Capstone - Image Classification
 There are millions of different types of wildlife in the world. Can we use image classification to distinguish some of them? iNaturalist, a site that allows users to add images of wildlife they observe, hosts an annual Kaggle competition that encourages participants to help improve image classification for their repository of images.
 
 
-This project uses 265,213 jpeg images from 1010 different species and 6 wildlife categories from the 2019 iNaturalist dataset. While the original Kaggle competition sought to classify one species from another - for instance, a bee vs a yellowjacket, this project attempts to classify each image into its appropriate “iconic category”  - Amphibians, Birds, Fungi, Insects, Plants, or Reptiles. 
+This project uses peg images from 1010 different species and 6 wildlife categories from the 2019 iNaturalist dataset. While the original Kaggle competition sought to classify one species from another - for instance, a bee vs a yellowjacket, this project attempts to classify images of Birds from other categories of wildlife. 
 
-The dataset is too large to be uploaded to this repository, but can be found on the Kaggle site [https://www.kaggle.com/c/inaturalist-2019-fgvc6/data][here]. 
+The entire dataset is too large to be uploaded to this repository, but can be found on the Kaggle site [https://www.kaggle.com/c/inaturalist-2019-fgvc6/data][here]. 
 
 
 Project Organization
