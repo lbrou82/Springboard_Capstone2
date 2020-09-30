@@ -15,7 +15,9 @@ The entire dataset is too large to be uploaded to this repository, but can be fo
 Project Organization
 ------------
 
-    ├── README.md          
+    ├── README.md 
+    ├── Capstone2_BirdClassification_slides.pdf
+    ├── Capstone2_BirdClassification_report.pdf
     ├── data
     │   ├── external       <- Data from third party sources.
     │   ├── interim        <- Intermediate data that has been transformed.
